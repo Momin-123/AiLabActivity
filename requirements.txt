@@ -1,0 +1,5 @@
+flask==2.0.1
+numpy==1.26.3
+opencv-python-headless==4.9.0.80
+scikit-learn==1.4.0
+werkzeug==2.0.3 
